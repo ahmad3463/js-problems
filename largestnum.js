@@ -18,5 +18,4 @@ function findTheLargestNum(arr){
 
     const numbers = ['23','43','54','65','35'];
     const largestNum = findTheLargestNum(numbers);
-
     console.log("The largest num is",largestNum);
